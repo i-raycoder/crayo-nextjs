@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
 Install dependencies using npm:
 
 ```bash
-npm
+npm install
 ```
 
 **Running the Project using npm**
